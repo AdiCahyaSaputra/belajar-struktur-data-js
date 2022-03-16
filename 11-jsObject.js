@@ -33,3 +33,7 @@ let singa = {
 
 singa.makan();
 singa.lari();
+
+// untuk menampilkan data dengan key tertentu, bisa pake kurung kotak juga btw
+console.log(singa["mata"]);
+console.log(singa["jabatan"]);
